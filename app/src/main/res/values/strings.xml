@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">rma21projekat</string>
+    <string name="bodovi" translatable="false">bodovi</string>
+    <string name="vrijeme" translatable="false">vrijeme</string>
+    <string name="datum" translatable="false">datum</string>
+    <string name="kviz" translatable="false">kviz</string>
+    <string name="predmet" translatable="false">Predmet</string>
+    <string name="odaberite_godinu" translatable="false">Odaberite godinu</string>
+    <string name="odaberite_predmet" translatable="false">Odaberite predmet</string>
+    <string name="odaberite_grupu" translatable="false">Odaberite grupu</string>
+    <string name="upisite_se_na_predmet" translatable="false">Upišite se na predmet</string>
+    <string name="upisi_me">Upiši me</string>
+    <string name="kvizovi">Kvizovi</string>
+    <string name="predmeti">Predmeti</string>
+    <string name="uspjesno_ste_upisani_u_grupu_grupa_naziv_predmeta_grupa_nazivpredmeta">“Uspješno ste upisani u grupu ${grupa.naziv} predmeta ${grupa.nazivPredmeta}!”.</string>
+    <string name="tekst_pitanja">tekst pitanja</string>
+    <string name="predaj_kviz">Predaj kviz</string>
+    <string name="zaustavi_kviz">Zaustavi kviz</string>
+    <string-array name="vrsteKvizFiltera">
+        <item name="svi_moji_kvizovi">Svi moji kvizovi</item>
+        <item name="svi_kvizovi">Svi kvizovi</item>
+        <item name="uradjeni_kvizovi">Urađeni kvizovi</item>
+        <item name="buduci_kvizovi">Budući kvizovi</item>
+        <item name="prosli_kvizovi">Prošli kvizovi</item>
+    </string-array>
+    <string-array name="listaPredmeta">
+        <item>Razvoj mobilnih aplikacija</item>
+        <item>Inzenjerska matematika</item>
+        <item>Osnove elektrotehnike</item>
+        <item>Diskretna matematika</item>
+        <item>Tehnike programiranja</item>
+    </string-array>
+    <string-array name="listaGrupa">
+        <item>RMA1</item>
+        <item>RMA2</item>
+        <item>RMA3</item>
+        <item>RMA4</item>
+    </string-array>
+    <string-array name="listaGodina">
+        <item>1</item>
+        <item>2</item>
+<!--        <item>3</item>-->
+<!--        <item>4</item>-->
+<!--        <item>5</item>-->
+    </string-array>
+</resources>
