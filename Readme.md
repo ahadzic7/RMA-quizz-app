@@ -1,10 +1,11 @@
-# RMA - Projekat 2021
+# RMA - Project 2021
 
-Projekat rađen u sklopu predmeta Razvoj Mobilnih Aplikacija u 2021. godini
+Project created for the subject Development of Mobile Apps in 2021.
 
-Radi se u android mobilnoj aplikaciji za fakultetske kvizove.
+It is a mobile app for quizzes.
 
 <p align="center">
   <img src="images/Quizz.jpg" alt="Main page"/>
+  
   <img src="images/Question.jpg" alt="Main page"/>
 </p>
